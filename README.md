@@ -1,12 +1,25 @@
-PMDB
----------
+#PMDB
 
-This is the Udacity Android Nanodegree Project 1 (The Popular Movie Database).
-It has 1 Fragment Activities for popular movies list and single movie details.
+Here is the Project 1 of Udacity Android Nanodegree program - The Popular Movie Database.
 
-The view is constructed using Android Design Support Library 22.2.1 (using [this tutorial](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)), so it should be added in Android Studio.
+PMDB is a fully functional Android app that helps users to discover popular and highly rated movies on the web using `themoviedb.org` API.
+It displays a scrolling grid of movie posters, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, share movie trailers and read user reviews.
 
-All the code used in the app is written for this project except the parts from Android Documentation
+The app was evaluated by Udacity reviewers and was graded as _"Exceeds Specifications"_.
+
+##Features
+
+The PMDB app provides the following features:
+
+* Discover most popular and highly rated movies
+* View movie details including descriprion and air date
+* View movie trailers on YouTube
+* Save movies as favorite for offline access
+* Read user reviews on movies
+* Share movie trailer
+
+
+##Notes
 
 Important notice about The Movie Database API.
 In order for the API to work, the API key should be added in `Constants.java` file in `TMDB_API_KEY` property.
