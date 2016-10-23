@@ -18,6 +18,19 @@ The PMDB app provides the following features:
 * Read user reviews on movies
 * Share movie trailer
 
+##Screenshots
+
+<img src="asset/screenshot_1.png" width="250">
+<img src="asset/screenshot_2.png" width="250">
+<img src="asset/screenshot_3.png" width="250">
+<img src="asset/screenshot_4.png" width="250">
+<img src="asset/screenshot_7.png" width="250">
+<img src="asset/screenshot_8.png" width="250">
+
+<img src="asset/screenshot_5.png" width="375">
+<img src="asset/screenshot_6.png" width="375">
+
+<img src="asset/screenshot_9.png" width="750">
 
 ##Notes
 
