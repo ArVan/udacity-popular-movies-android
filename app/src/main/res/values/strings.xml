@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PMDB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="progress_loading">Loading…</string>
+    <string name="message_not_connected">Oops.. Looks like you don\'t have an active internet connection.</string>
+    <string name="message_failed_get_reviews">Failed to get reviews</string>
+    <string name="message_failed_get_videos">Failed to get videos</string>
+    <string name="movie_votes">%1$.1f/10 (total %2$d votes)</string>
+    <string name="movie_runtime">%1$d min</string>
+    <string name="movie_detail_released">Released</string>
+    <string name="movie_detail_runtime">Runtime</string>
+    <string name="movie_detail_overview">Overview</string>
+    <string name="movie_detail_genre">Genre</string>
+    <string name="movie_detail_countries">Country</string>
+    <string name="movie_detail_videos">Videos</string>
+    <string name="movie_detail_reviews">Reviews</string>
+    <string name="sorting_key_popular">most popular</string>
+    <string name="sorting_key_high_rated">highest rated</string>
+    <string name="sorting_key_new">newest releases</string>
+    <string name="sorting_key_favorite">favorites</string>
+
+</resources>

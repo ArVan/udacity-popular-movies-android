@@ -1,0 +1,24 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_key_choose_filter">filter</string>
+    <string name="pref_default_value_choose_sorting">popularity.desc</string>
+
+    <string name="pref_title_choose_sorting">Choose movie sorting</string>
+    <string-array name="pref_choose_sorting_titles">
+        <item>@string/sorting_key_popular</item>
+        <item>@string/sorting_key_high_rated</item>
+        <item>@string/sorting_key_new</item>
+        <item>@string/sorting_key_favorite</item>
+    </string-array>
+    <string-array name="pref_choose_sorting_values">
+        <item>popularity.desc</item>
+        <item>vote_average.desc</item>
+        <item>release_date.desc</item>
+        <item>favorite</item>
+    </string-array>
+</resources>
